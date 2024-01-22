@@ -4,3 +4,4 @@ hello
 Thuong
 this_is_1st_commit
 this_is_2nd_commit_frombranchB
+this_is_3rd_commit_frombranchB
